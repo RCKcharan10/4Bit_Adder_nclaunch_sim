@@ -1,4 +1,4 @@
-# EXP1: 4 Bit Adder functionality verification
+#### EXP1: 4 Bit Adder functionality verification
 
 ## Aim:
 To write a verilog code for 4bit adder and verify the functionality using Test bench.
@@ -242,17 +242,6 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ![Screenshot 2024-10-05 090612](https://github.com/user-attachments/assets/ee328767-4daa-4012-8c67-caaf3c0566ab)
 ### Fig 12: Simulation Waveform Window
 
+## Result: 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+The verilog code for 4bit adder and verify the functionality using Test bench has been done and verified.
