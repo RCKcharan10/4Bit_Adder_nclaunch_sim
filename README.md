@@ -57,6 +57,8 @@ Note : File name should be with HDL Extension
 
 •	fa_4bit_test.v → Test bench 
 
+### Code
+```
 module full_adder(A,B,CIN,S,COUT);
 
 input A,B,CIN;
@@ -118,7 +120,7 @@ end initial
 #50 $finish;
 
 endmodule
-
+```
 
 ## Functional Simulation: 
 
